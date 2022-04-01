@@ -1,6 +1,6 @@
 
-# Insertion Sort Projesi 
-## [22,27,16,2,18,6]  -> Insertion Sort 
+# Selection Sort Projesi 
+## [22,27,16,2,18,6]  -> Selection Sort 
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 	- En düşük sayı olan 2 ile 22 yer değiştirir. [2,27,16,22,18,6]
@@ -17,7 +17,7 @@
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 	* Aranan sayi dizinin ortasinda olduğu için Average Case olur. 
 
-## ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız
+## ## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız
 	1. 2 ile 7 yer değiştirir -> [2,3,5,8,7,9,4,15,6]
 	2. 3 sabit kalır -> [2,3,5,8,7,9,4,15,6]
 	3. 4 ile 5 yer değiştirir -> [2,3,4,8,7,9,5,15,6]
