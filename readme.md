@@ -19,7 +19,7 @@
                                 [8,11,12,16,21,22]
 
 2. Big-O gösterimini yazınız.
-	- $2^{x}$ = n
-	- x = $log{n}$ buradan big-o -> o(logn) gelir. 
+	- 2^x = n
+	- x = logn buradan big-o -> o(logn) gelir. 
 	- İşlem aşamalarından big-o -> o(n) gelir. 
 	- Sonuç olarak big-o -> o(nlogn) olur.
